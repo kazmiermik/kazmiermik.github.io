@@ -1,9 +1,13 @@
 ---
 published: false
 ---
-## Mój pierwszy post
+# Pierwszy wpis
+to jest pierwszy wpis na  **mój blog**  
 
-to jest wpis **pierwszy wpis** 
-i *pierwszy podwpis* tuż ponizej
+> to jest fajne! bardzo sympatyczne! choć troch straszne... **ale można robić różne rzeczy**    
 
-# Pierwszy podwpis
+## Pierwszy podwpis
+
+* google
+* [AngularJS] -  
+   

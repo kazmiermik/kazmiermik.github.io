@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 ## Pierwszy wpis
 to jest pierwszy wpis na  **mój blog**  

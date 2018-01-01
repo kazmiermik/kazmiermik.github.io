@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Pierwszy wpis
 to jest pierwszy wpis na  **mój blog**  
@@ -9,5 +9,4 @@ to jest pierwszy wpis na  **mój blog**
 ## Pierwszy podwpis
 
 * google
-* [AngularJS] -  
-   
+* [AngularJS] -

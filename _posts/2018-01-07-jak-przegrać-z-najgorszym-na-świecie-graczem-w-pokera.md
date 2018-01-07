@@ -29,4 +29,4 @@ Jest to szczególnie ważne w rozmowach prowadzonych w języku obcym. Wtedy naj�
 Chcąc uniknąć losu Harlana zawsze zadawajmy sobie pytanie "czy moje założenia są słuszne?"
 W razie wątpliwości dopytujmy i sprawdzajmy. 
 
-Pozwoli to uniknąć wielu przykrych konsekwencji. 
+Pozwoli to uniknąć wielu przykrych konsekwencji.

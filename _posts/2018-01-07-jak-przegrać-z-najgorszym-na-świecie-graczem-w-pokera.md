@@ -19,7 +19,7 @@ Harlan traci nerwy i przegrywa tej nocy wszystko, co ma...
 
 Jak doszło do tego, że najlepszy gracz przegrał wszystko z najgorszym?
 
-Harlan popełnił kardynalny błąd: nie znając przeciwnika nie **sprawdził słuszności swoich założeń**. Myślał, że **każdy kto zna zasady gry musi postąpić racjonalnie**. Nie dopuścił myśli, że któryś z graczy może zupełnie nie znać zasad i postępować w sposób doskonale przypadkowy.
+Harlan popełnił kardynalny błąd: nie znając przeciwnika **nie sprawdził słuszności swoich założeń**. Myślał, że **każdy kto zna zasady gry musi postąpić racjonalnie**. Nie dopuścił myśli, że któryś z graczy może zupełnie nie znać zasad i postępować w sposób doskonale przypadkowy.
 
 Jak często znajdujesz się w sytuacji, gdzie myślisz - "to oczywiste, że...", "wszyscy wiedzą, że" i podobnie.
 

@@ -3,9 +3,7 @@ published: true
 desription: >-
   Jak to się dzieje, że dzieje się coś, czego się zupełnie nie spodziewamy? Choć
   przeciew wszystko było jasne!
-description: >-
-  Blog jest jeszcze w procesie tworzenia. W pewnym sensie tak będzie zawsze...
-  Ale pojawią się nowe treści.
+description: ''
 ---
 ## Jak przegrać z najgorszym na świecie graczem w pokera?
 

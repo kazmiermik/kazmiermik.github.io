@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 desription: >-
   Jak to się dzieje, że dzieje się coś, czego się zupełnie nie spodziewamy? Choć
   przeciew wszystko było jasne!

@@ -1,8 +1,8 @@
 ---
 published: true
 desription: >-
-  Blog jest jeszcze w procesie tworzenia. W pewnym sensie tak będzie zawsze...
-  Ale pojawią się nowe treści.
+  Jak to się dzieje, że dzieje się coś, czego się zupełnie nie spodziewamy? Choć
+  przeciew wszystko było jasne!
 description: >-
   Blog jest jeszcze w procesie tworzenia. W pewnym sensie tak będzie zawsze...
   Ale pojawią się nowe treści.

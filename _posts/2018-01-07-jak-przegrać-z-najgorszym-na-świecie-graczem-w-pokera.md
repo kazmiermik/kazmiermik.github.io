@@ -7,7 +7,7 @@ description: >-
   Jak dochodzi do tego, że dzieje się coś, czego się zupełnie nie spodziewamy?
   Choć przecież wszystko było jasne!
 ---
-##  
+
 
 Scena z filmu "Gra o wszystko", partia pokera. Przy stole zostało dwóch graczy: Harlan - doświadczony, rozsądny, jedyny gracz a nie hazardzista, zna zasady, zawsze wygrywa i Brad - pseudonim "Bad Brad", bo jest aż tak zły... nie zna i nawet nie stara się poznać zasad gry. 
 

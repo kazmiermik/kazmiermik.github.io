@@ -4,8 +4,8 @@ desription: >-
   Jak to się dzieje, że dzieje się coś, czego się zupełnie nie spodziewamy? Choć
   przeciew wszystko było jasne!
 description: >-
-  Jak to się dzieje, że dzieje się coś, czego się zupełnie nie spodziewamy? Choć
-  przeciew wszystko było jasne!
+  Jak dochodzi do tego, że dzieje się coś, czego się zupełnie nie spodziewamy?
+  Choć przecież wszystko było jasne!
 ---
 ## Jak przegrać z najgorszym na świecie graczem w pokera?
 

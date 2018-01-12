@@ -28,4 +28,4 @@ Dlatego postanowiłem usunąć słowo „dział” ze słownika naszej organizac
 Jak pokazuje przykład podany na początku dobór właściwych słów pozwala kierować myślenie na właściwe tory, uruchamia inne skojarzenia, zwiększa szanse na inne wnioski i zachowania.
 
 Jakie słowo powinieneś zmienić od dziś w swojej organizacji?
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+ 

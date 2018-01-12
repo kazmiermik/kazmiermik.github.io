@@ -24,7 +24,7 @@ Spójrzmy na słowo „dział” określające jednostkę organizacyjną. „Dzi
 
 Dlatego postanowiłem usunąć słowo „dział” ze słownika naszej organizacji i zastąpić je słowem „zespół”. 
 
-„Zespół” to według Słownika Języka Polskiego: „grupa ludzi wspólnie pracujących lub robiących coś w jakiejś dziedzinie». 
+„Zespół” to według Słownika Języka Polskiego: „grupa ludzi wspólnie pracujących lub robiących coś w jakiejś dziedzinie". 
 
 To słowo sugeruje jedność i współpracę. **Zespoły zespalają!**
 

@@ -8,7 +8,7 @@ title: Jakie słowa powinieneś usunąć ze słownika swojej organizacji?
 
 
 
-W artykule „Good leaders don’t use bad words” [Harvard Business Review](https://hbr.org/2013/06/good-leaders-dont-use-bad-word) Michael Schrage przytacza historię pewnego warsztatu.
+W artykule [„Good leaders don’t use bad words”](https://hbr.org/2013/06/good-leaders-dont-use-bad-word) Michael Schrage przytacza historię pewnego warsztatu.
 
 Celem spotkania było kreowanie pomysłów na produkty, których klienci potrzebować będą w najbliższym dziesięcioleciu. Okazało się jednak, że warsztat nie przynosi oczekiwanych efektów. Ciekawe pomysły nie pojawiały się a uczestnicy nie mogli wyrwać się z szablonowego myślenia i odwoływania do ogólnikowych frazesów.
 

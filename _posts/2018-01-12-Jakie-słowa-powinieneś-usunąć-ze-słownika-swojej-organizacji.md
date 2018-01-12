@@ -1,5 +1,9 @@
 ---
 published: true
+description: >-
+  Zastąpienie jednego słowa innym, bardziej odpowiednim, może przynieść
+  zaskakujące efekty.
+title: Jakie słowa powinieneś usunąć ze słownika swojej organizacji?
 ---
 
 Jakie słowa powinieneś usunąć ze słownika swojej organizacji?

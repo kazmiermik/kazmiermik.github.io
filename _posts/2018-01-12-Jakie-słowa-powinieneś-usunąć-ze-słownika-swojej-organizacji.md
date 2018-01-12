@@ -24,6 +24,6 @@ Spójrzmy na słowo „dział” określające jednostkę organizacyjną. „Dzi
 
 Dlatego postanowiłem usunąć słowo „dział” ze słownika naszej organizacji i zastąpić je słowem „zespół”. „Zespół” to według Słownika Języka Polskiego: „grupa ludzi wspólnie pracujących lub robiących coś w jakiejś dziedzinie». To słowo sugeruje jedność i współpracę. Zespoły zespalają!
 
-Jak pokazuje przykład podany na początku **odpowiedni dobór słów kieruje myślenie na właściwe tory, uruchamia ścieżki myślowe i skojarzenia a w efekcie wpływa na wyciągane wnioski i zachowania.**
+Jak pokazuje przykład podany na początku **odpowiedni dobór słów kieruje myślenie na właściwe tory, uruchamia nowe ścieżki myślowe i skojarzenia a w efekcie wpływa na wyciągane wnioski i zachowania.**
 
 Jakie słowo powinieneś zmienić w swojej organizacji?

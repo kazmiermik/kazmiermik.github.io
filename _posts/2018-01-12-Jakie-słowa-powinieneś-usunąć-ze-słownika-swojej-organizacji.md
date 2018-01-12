@@ -27,5 +27,5 @@ Dlatego postanowiłem usunąć słowo „dział” ze słownika naszej organizac
 
 Jak pokazuje przykład podany na początku dobór właściwych słów pozwala kierować myślenie na właściwe tory, uruchamia inne skojarzenia, zwiększa szanse na inne wnioski i zachowania.
 
-Jakie słowo powinieneś zmienić od dziś w swojej organizacji?
+Jakie słowo powinieneś zmienić w swojej organizacji?
  

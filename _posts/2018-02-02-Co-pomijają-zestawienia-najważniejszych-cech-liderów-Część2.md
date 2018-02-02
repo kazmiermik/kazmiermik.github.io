@@ -43,4 +43,4 @@ Zobacz też:
 1. [Co pomijają zestawienia najważniejszych cech liderów? Część 1](http://michalkazmierski.com/2018/02/01/Co-pomijają-zestawienia-najważniejszych-cech-liderów.html)
 2. [Ego lidera z perspektywy Kets de Vries](http://appx.pl/pl/lecture/view?id=67)
 
-\*\ historię przytaczam za J. Badaracco „Questions of Character”, 2006
+\* historię przytaczam za J. Badaracco „Questions of Character”, 2006

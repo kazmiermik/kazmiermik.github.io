@@ -41,6 +41,6 @@ Czy nie jestem nieco za dobry? Czy jestem gotów czasem, nieco nie spełnić ocz
 
 Zobacz też: 
 1. [Co pomijają zestawienia najważniejszych cech liderów? Część 1](http://michalkazmierski.com/2018/02/01/Co-pomijają-zestawienia-najważniejszych-cech-liderów.html)
-2. [Ego lidera z perspektywy Kets de Vries](http://appx.pl/pl/lecture/view?id=67)
+2. Wystąpienie na APPx - [Ego lidera z perspektywy Kets de Vries](http://appx.pl/pl/lecture/view?id=67)
 
 \* historię przytaczam za J. Badaracco „Questions of Character”, 2006

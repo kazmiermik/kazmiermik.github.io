@@ -36,7 +36,7 @@ Jakie siły społeczne mnie kształtują? Kto i co dorzuca mi do bagażu codzien
 Jacy są inni i czego ode mnie oczekują? 
 
 Czy nie jestem nieco za dobry? 
-Czy jestem gotów czasem powiedzieć „nie i nie spełnić oczekiwań wszystkich? 
+Czy jestem gotów czasem powiedzieć „nie" i nie spełnić oczekiwań wszystkich? 
 
 
 

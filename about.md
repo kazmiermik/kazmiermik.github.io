@@ -4,4 +4,4 @@ title: O autorze
 permalink: /about/
 published: true
 ---
-Michał Kaźmierski - doświadczony praktyk biznesu, od kilkunastu lat zrządzający organizacjami, trener i wykładowca Akademii Psychologii Przywództwa oraz członek kadry naukowo-dydaktycznej kierunku Zarządzanie i przywództwo Uniwersytetu SWPS
+Doświadczony praktyk biznesu, od kilkunastu lat zrządzający organizacjami, trener i wykładowca Akademii Psychologii Przywództwa oraz członek kadry naukowo-dydaktycznej kierunku Zarządzanie i przywództwo Uniwersytetu SWPS

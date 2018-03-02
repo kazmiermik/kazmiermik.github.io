@@ -1,2 +1,4 @@
   
+ </figure>
  ![logo1.png]({{site.baseurl}}/logo1.png)
+<'figure>

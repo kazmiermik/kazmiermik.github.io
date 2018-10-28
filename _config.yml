@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Twoj Blog 
-email: your-email@domain.com
+title: Blog w procesie tworzenia
+author: Kontakt z autorem
+email: blog2follow@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    To jest Twoj nowy blog! Mozesz zmienic opis pozniej...
+    Ten blog jest w procesie tworzenia, w zasadzie tak będzie zawsze, ale będą pojawiać się nowe treści...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kazmiermik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MLKazmierski
@@ -30,3 +31,13 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+defaults:
+    -
+      scope:
+          path: ""
+          type: "posts"
+      values:
+          layout: "post"
+          comments: true
+disqus:
+  shortname: mlkmk

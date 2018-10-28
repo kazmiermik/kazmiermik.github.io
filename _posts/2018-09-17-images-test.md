@@ -13,4 +13,4 @@ Film z youtube:
 uzwyajac ```[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)```
 
 ## test 2
-![gf-7gyL-B39F-MVqj_kapibara-przygarnela-sierotki-320x400-nocrop.jpg]({{site.baseurl}}/assets/images/gf-7gyL-B39F-MVqj_kapibara-przygarnela-sierotki-320x400-nocrop.jpg)
+![gf-7gyL-B39F-MVqj_kapibara-przygarnela-sierotki-320x400-nocrop.jpg](/assets/images/gf-7gyL-B39F-MVqj_kapibara-przygarnela-sierotki-320x400-nocrop.jpg)

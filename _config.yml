@@ -58,10 +58,10 @@ prose:
         field:
           element: "hidden"
           value: "blog"
-		- name: "title"
-     		field:
-       			element: "text"
-       			label: "title"
+	  - name: "title"
+     	field:
+       	  element: "text"
+       	  label: "title"
     _posts/static:
       - name: "layout"
         field:

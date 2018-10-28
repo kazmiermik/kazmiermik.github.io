@@ -59,9 +59,9 @@ prose:
           element: "hidden"
           value: "blog"
       - name: "title"
-     	field:
-       	  element: "text"
-       	  label: "title"
+        field:
+          element: "text"
+          label: "title"
     _posts/static:
       - name: "layout"
         field:

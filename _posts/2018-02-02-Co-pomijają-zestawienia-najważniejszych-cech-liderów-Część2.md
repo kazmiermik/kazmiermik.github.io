@@ -1,8 +1,8 @@
 ---
 published: true
 title: Co pomijają zestawienia najważniejszych cech liderów? Część 2
-description: ''
 ---
+description: >- 
 Dlaczego ktoś, kto osiągnął sukces niemal na każdej płaszczyźnie życiowej sam sprowadza na siebie katastrofę?
 
 

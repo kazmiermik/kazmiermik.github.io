@@ -1,12 +1,11 @@
 ---
 published: true
 title: Co pomijają zestawienia najważniejszych cech liderów? Część 2
+description: ''
 ---
-<div class="featured">
+Dlaczego ktoś, kto osiągnął sukces niemal na każdej płaszczyźnie życiowej sam sprowadza na siebie katastrofę?
 
-Dlaczego ktoś, kto osiągnął sukces niemal na każdej płaszczyźnie życiowejsam sprowadza na siebie katastrofę?
 
-<!--more-->
 
 Na pierwszy rzut oka Tony Lowder - bohater powieści Louisa Auchinclosa "Ja złodziej" - to ucieleśnienie człowieka sukcesu.* 
 

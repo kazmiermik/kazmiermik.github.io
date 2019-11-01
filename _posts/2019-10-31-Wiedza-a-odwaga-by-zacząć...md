@@ -1,4 +1,5 @@
 ---
+title: Wiedza a odwaga, by zacząć...
 published: true
 ---
 Zaczerpnięte z bloga Setha Godina:

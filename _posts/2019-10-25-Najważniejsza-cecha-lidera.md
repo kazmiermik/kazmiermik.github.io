@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: Najważniejsza cecha lidera
+desription: Wśród wileu cech opisujących liderów jest ta jedna z najważniejszych
 ---
 
 
@@ -20,4 +22,4 @@ Podejmowanie odpowiedzialności - rozumianej jako zaangażowanie się, włożeni
 Bycie odpowiedzialnym, to także bycie odpowiedzialnym za siebie. Traktowanie siebie fair zarówno osiągając sukces, jak i kiedy coś pójdzie nie tak.
 
 I wreszcie najważniejsze. 
-Choć to *„ja biorę odpowiedzialność”* rzadko kiedy mogę to zrobić **sam** - bez wsparcia, pomocy innych. 
+Choć to *„ja biorę odpowiedzialność”* rzadko kiedy mogę to zrobić **sam** - bez wsparcia, pomocy innych.

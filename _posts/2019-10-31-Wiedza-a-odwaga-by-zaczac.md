@@ -3,12 +3,17 @@ published: true
 title: 'Wiedza a odwaga, by zacząć...'
 description: Często to nie brak umiejętności stoi na drodze do sukcesu
 ---
-Zaczerpnięte z bloga Setha Godina:
 
-Granice technicznej doskonałości.
+Wiesz, że zmiana jest konieczna, trzeba zacząć nowy rozdział, podjąć nowe wyzwanie...
 
-Możliwe, że nie musisz zadawać sobie pytania, czy wiem *wystarczająco dużo*, czy mam *dość umiejętności* by coś zacząć.
+Jak często mówisz sobie - "potrzebuję więcej doświadczenia", "muszę się więcej nauczyć".
+
+Możliwe jednak, że nie musisz obawiać się, czy wiesz *wystarczająco dużo*, czy masz *dość umiejętności* by coś zacząć.
 
 Prawdopodobne jest, że w wystarczającym stopniu opanowałeś niezbędne umiejętności.
 
 Możliwe jednak, że brakuje Ci *odwagi*.
+
+
+
+Zainspirowane wpisem na blogu Setha Godina

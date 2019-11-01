@@ -21,4 +21,6 @@ Możliwe jednak, że brakuje Ci *odwagi*.
 
 ---
 
+
+
 Zainspirowane wpisem na blogu Setha Godina

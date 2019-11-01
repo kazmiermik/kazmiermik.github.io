@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Zaczerpnięte z bloga Setha Godina:
 

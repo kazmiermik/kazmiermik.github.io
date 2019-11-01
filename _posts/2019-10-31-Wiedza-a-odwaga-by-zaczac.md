@@ -1,6 +1,7 @@
 ---
 published: true
 title: 'Wiedza a odwaga, by zacząć...'
+description: Często to nie brak umiejetności stoi na drodze do sukcesu
 ---
 Zaczerpnięte z bloga Setha Godina:
 

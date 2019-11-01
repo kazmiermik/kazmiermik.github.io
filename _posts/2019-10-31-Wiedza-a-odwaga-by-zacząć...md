@@ -1,5 +1,5 @@
 ---
-title: 'Wiedza a odwaga, by zacząć...'
+title: 'Wiedza a odwaga, by zacząć... old'
 published: true
 description: this is a test.
 ---

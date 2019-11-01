@@ -1,6 +1,7 @@
 ---
 title: 'Wiedza a odwaga, by zacząć...'
 published: true
+description: this is a test.
 ---
 Zaczerpnięte z bloga Setha Godina:
 

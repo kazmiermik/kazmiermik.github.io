@@ -2,7 +2,7 @@
 published: true
 title: Najważniejsza cecha lidera
 desription: Wśród wileu cech opisujących liderów jest ta jedna z najważniejszych
-description: Wśród wileu cech opisujących liderów jest *ta* - jedna z najważniejszych
+description: Wśród wileu cech opisujących liderów jest ta - jedna z najważniejszych
 ---
 
 

@@ -19,7 +19,7 @@ Możliwe jednak, że brakuje Ci *odwagi*.
 
 
 
----
+--
 
 
 

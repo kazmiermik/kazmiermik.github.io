@@ -26,7 +26,7 @@ twitter_username: MLKazmierski
 # Build settings
 markdown: kramdown
 #theme: minima
-remote_theme: kazmiermik/indigo
+remote_theme: kazmiermik/indigo@gh-pages
 gems:
   - jekyll-feed
 exclude:

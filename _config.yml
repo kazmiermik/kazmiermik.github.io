@@ -26,11 +26,11 @@ twitter_username: MLKazmierski
 # Build settings
 markdown: kramdown
 # theme: minima
-remote_theme: kazmiermik/indigo@gh-pages
-# remote_theme: benbalter/retlab
+#remote_theme: kazmiermik/indigo@gh-pages
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 plugins:
-   - jekyll-remote-theme 
    - jekyll-feed
+   - jekyll-include-cache
 exclude:
   - Gemfile
   - Gemfile.lock

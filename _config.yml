@@ -27,8 +27,9 @@ twitter_username: MLKazmierski
 markdown: kramdown
 #theme: minima
 remote_theme: kazmiermik/indigo@gh-pages
-gems:
+plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 exclude:
   - Gemfile
   - Gemfile.lock

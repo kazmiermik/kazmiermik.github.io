@@ -25,7 +25,7 @@ twitter_username: MLKazmierski
 
 # Build settings
 markdown: kramdown
-#theme: minima
+# theme: minima
 remote_theme: kazmiermik/indigo@gh-pages
 plugins:
   - jekyll-feed

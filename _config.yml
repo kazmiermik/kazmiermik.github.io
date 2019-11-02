@@ -19,7 +19,7 @@ email: blog2follow@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Ten blog jest w procesie tworzenia, w zasadzie tak będzie zawsze, ale będą pojawiać się nowe treści...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kazmiermik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: http://kazmiermik.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MLKazmierski
 # github_username:  jekyll
 
@@ -27,7 +27,7 @@ twitter_username: MLKazmierski
 markdown: kramdown
 # theme: minima
 # remote_theme: kazmiermik/indigo@gh-pages
-remote_theme: benbalter/retlab
+remote_theme: 
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

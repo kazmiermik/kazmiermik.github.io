@@ -17,7 +17,7 @@ title: Blog
 		{% include pagination.html%}
 	{% else %}
 		{% for post in site.posts %}
-				{% if post.hidden != true %}
+				{% if post.published == true %}
 					{% include blog-post.html %}
 			{% endif %}
 		{% endfor %}

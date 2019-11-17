@@ -2,6 +2,7 @@
 published: true
 title: 'Wiedza a odwaga, by zacząć...'
 description: Często to nie brak umiejętności stoi na drodze do sukcesu
+category: blog
 ---
 
 Wiesz, że zmiana jest konieczna, trzeba zacząć nowy rozdział, podjąć nowe wyzwanie...

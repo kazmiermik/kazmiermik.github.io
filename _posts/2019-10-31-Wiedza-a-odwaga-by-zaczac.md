@@ -17,7 +17,7 @@ Możliwe jednak, że brakuje Ci *odwagi*.
 
 
 
-
+![kapibara](/assets/images/test.jpg){:class="img-responsive"}
 
 
 --

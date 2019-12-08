@@ -17,7 +17,7 @@ Możliwe jednak, że brakuje Ci *odwagi*.
 
 
 
-![skater](assets/images/skater.jpg){:class="img-responsive"}
+![profile](assets/images/profile.jpg){:class="img-responsive"}
 
 
 --

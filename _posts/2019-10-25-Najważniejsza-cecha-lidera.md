@@ -24,3 +24,6 @@ Bycie odpowiedzialnym, to także bycie odpowiedzialnym za siebie. Traktowanie si
 
 I wreszcie najważniejsze. 
 Choć to *„ja biorę odpowiedzialność”* rzadko kiedy mogę to zrobić **sam** - bez wsparcia, pomocy innych.
+
+![kierowca](/assets/images/kierowca.jpg){:class="img-responsive"}
+Photo credit: Magdalena Kaźmierska

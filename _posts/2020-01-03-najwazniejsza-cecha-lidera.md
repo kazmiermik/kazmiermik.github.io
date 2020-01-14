@@ -1,5 +1,7 @@
 ---
 published: false
+title: Najważniejsza cecha lidera
+description: Wśród wileu cech opisujących liderów jest ta - jedna z najważniejszych
 ---
 
 Jest wiele cech opisujących lidera.
@@ -23,4 +25,3 @@ Choć to *„ja biorę odpowiedzialność”* rzadko kiedy mogę to zrobić **sa
 
 ![kierowca](/assets/images/kierowca.jpg){:class="img-responsive"}
 Photo credit: Magdalena Kaźmierska
-

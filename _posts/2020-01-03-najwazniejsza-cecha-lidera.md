@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Najważniejsza cecha lidera
 description: Wśród wileu cech opisujących liderów jest ta - jedna z najważniejszych
 ---

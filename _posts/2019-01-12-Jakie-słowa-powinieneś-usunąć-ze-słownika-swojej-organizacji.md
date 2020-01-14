@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 description: >-
   Zastąpienie jednego słowa innym, bardziej odpowiednim, może przynieść
   zaskakujące efekty.

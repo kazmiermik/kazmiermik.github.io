@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Jak przegrać z najgorszym na świecie graczem w pokera?
 description: >-
   Jak dochodzi do tego, że dzieje się coś, czego się zupełnie nie spodziewamy?
@@ -29,3 +29,6 @@ Chcąc uniknąć losu Harlana zawsze zadawajmy sobie pytanie "czy moje założen
 W razie wątpliwości dopytujmy i sprawdzajmy. 
 
 Pozwoli to uniknąć wielu przykrych konsekwencji.
+
+![Japan in SF](/assets/images/Japan in SF.jpg){:class="img-responsive"}
+Nie zawsze wszystko jest na jakie wygląda. To nie Japonia, to San Francisco.

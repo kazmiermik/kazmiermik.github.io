@@ -24,5 +24,6 @@ To słowo sugeruje jedność i współpracę. **Zespoły zespalają!**
 
 Jak pokazuje przykład podany na początku **odpowiedni dobór słów kieruje myślenie na właściwe tory, uruchamia nowe ścieżki myślowe i skojarzenia a w efekcie wpływa na wyciągane wnioski i zachowania.**
 
-Jakie słowo powinieneś zmienić w swojej organizacji?
+Jakie słowo muisz zmienić w swojej organizacji?
 
+![ratownicy](/assets/images/ratownicy.jpg){:class="img-responsive"}

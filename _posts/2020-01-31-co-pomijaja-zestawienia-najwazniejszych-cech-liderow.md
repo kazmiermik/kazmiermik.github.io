@@ -28,5 +28,4 @@ Marek nie należy do wyjątków. Według badań Manfreda Kets de Vriesa, profeso
 
 ![snowman](/assets/images/snowman.jpg){:class="img-responsive"}
 
-
 Calvin Marcus *Tall snowman*, 2019. Fot. M. Kaźmierski

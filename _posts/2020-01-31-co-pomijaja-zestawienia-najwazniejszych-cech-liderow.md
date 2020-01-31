@@ -24,7 +24,7 @@ Z czasem jego zachowanie zaczynało mieć negatywny wpływ na zespół. Kilkoro 
 Problemem Marka był brak samoświadomości - chęci i umiejętności trzeźwego spojrzenia na siebie z dystansu.
 
 To tej właśnie kluczowej cechy i umiejętności lidera brakuje wśród zestawień i cech atrybutów dobrych przywódców.
-Marek nie należy do wyjątków. Według badań Manfreda Kets de Vriesa, profesora INSEAD, ponad 70% wyższych menedżerów uważa, że znajduje się pośród 25% najlepszych w swojej dziedzinie.
+Marek nie należy do wyjątków. Według badań Manfreda Kets de Vriesa, profesora INSEAD, ponad 70% wyższych menedżerów uważa, że znajduje się pośród 25% najlepszych w swojej dziedzinie...
 
 ![snowman](/assets/images/snowman.jpg){:class="img-responsive"}
 Calvin Marcus *Tall snowman*, 2019. Fot. M. Kaźmierski

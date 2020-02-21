@@ -21,7 +21,7 @@ Firmy odnoszące w ten sposób sukces zaczynaja doskonalić swój produkt i z cz
 
 Trzeba podkreślić, że DI mierzona kryteriami obowiązującego rynkowego standardu będzie **gorszym** rozwiązaniem niż te oferowane przez ustabilizowanych graczy rynkowych. DI w zgodnej opinii dostawców/producentów i ich klientów nie będzie godna zainteresowania ponieważ nie spełnia standardów (jakości, funkcjonalności...) mierzonych w odniesieniu do obowiązujących w danym momencie kryteriów. DI z drugiej strony dotrze do odbiorców gotowych mierzyć jej wartość i użyteczność według innych, nowych kryteriów. 
 
-W starciu tych dwóch paradygmatów innowacji pojawia się **dylemat innowatora**: czy robienie rzeczy właściwych z punktu widzenia status quo jest robieniem rzeczy niewłaściwych w odniesieniu do nadciągającego zagrożenia. 
+W starciu tych dwóch paradygmatów innowacji pojawia się **dylemat innowatora**:robienie rzeczy właściwych z punktu widzenia status quo jest robieniem rzeczy niewłaściwych w odniesieniu do nadciągającego zagrożenia. 
 
 Od czasu wprowadzenia terminu _disruptive innovation_ jego użycie  wykroczyło znacznie poza intencje autora i obecnie DI to każdy rodzaj innowacji, która zmienia status quo eliminując z rynku dotychczasowych silnych graczy.  
 

@@ -4,7 +4,7 @@ title: Disruptive innovation - nazywajmy rzeczy po imieniu!
 ---
 
 
-Termin _disruptive innovation_ (DI) pojawia się obecnie bardzo często i można odnieść wrażenie, że wprowadzenie takiej właśnie innowacji jest marzeniem zarówno start-upów jak i dojrzałych firm.
+Termin _disruptive innovation_* (DI) pojawia się obecnie bardzo często i można odnieść wrażenie, że wprowadzenie takiej właśnie innowacji jest marzeniem zarówno start-upów jak i dojrzałych firm.
 Zauważyłem, że choć wszyscy pojęcie znają to definiują je na wiele różnych sposobów.
 
 Polskie tłumaczenie „przełomowe innowacje” dodatkowo gmatwa sprawę. „Przełomowe innowacje” jest pojęciem jeszcze szerszym i w żaden sposób nie oddaje znaczenia ukrytego w angielskim słowie _disruption_ - „przerwanie, zakłócenie, zamęt”. 
@@ -26,3 +26,9 @@ W starciu tych dwóch paradygmatów innowacji pojawia się **dylemat innowatora*
 Od czasu wprowadzenia terminu _disruptive innovation_ jego użycie  wykroczyło znacznie poza intencje autora i obecnie DI to każdy rodzaj innowacji, która zmienia status quo eliminując z rynku dotychczasowych silnych graczy.  
 
 Dlaczego precyzyjne operowanie terminami jest ważne? DI jest użyteczną koncepcją. Menedżerowie powinni j znać i rozumieć, ponieważ opisuje ona sposób konkurowania mogący mieć poważne skutki dla ich organizacji. Jeżeli jednak każdą ekscytującą innowację będziemy nazywać _disruptive_ to stracimy zdolność rozróżniania i nazywania konkretnych zjawisk. Jeżeli pojęcie DI straci swoje konkretne znaczenie to nazywanie innowacji zgodnie lub niezgodnie z jego znaczeniem straci sens.
+
+
+* postanowiłem używać oryginalnego terminu angileskiego ze względu na brak tłumaczenia właściwie oddającego sens 
+
+![disruption](/assets/images/disruption.jpg){:class="img-responsive"}
+Photo credit: Magdalena Kaźmierska

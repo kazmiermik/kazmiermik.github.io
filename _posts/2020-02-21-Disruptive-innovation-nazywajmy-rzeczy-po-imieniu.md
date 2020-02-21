@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Disruptive innovation - nazywajmy rzeczy po imieniu!
 ---
 

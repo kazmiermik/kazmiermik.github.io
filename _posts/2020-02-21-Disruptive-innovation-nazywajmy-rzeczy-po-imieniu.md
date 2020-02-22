@@ -28,7 +28,7 @@ Od czasu wprowadzenia terminu _disruptive innovation_ jego użycie  wykroczyło 
 Dlaczego precyzyjne operowanie terminami jest ważne? DI jest użyteczną koncepcją. Menedżerowie powinni j znać i rozumieć, ponieważ opisuje ona sposób konkurowania mogący mieć poważne skutki dla ich organizacji. Jeżeli jednak każdą ekscytującą innowację będziemy nazywać _disruptive_ to stracimy zdolność rozróżniania i nazywania konkretnych zjawisk. Jeżeli pojęcie DI straci swoje konkretne znaczenie to nazywanie innowacji zgodnie lub niezgodnie z jego znaczeniem straci sens.
 
 
-_* niestety nie znalazłem tłumaczenia oddającego sens pojęcia w języku polskim dlatego postanowiłem używać oryginalnego terminu angielskiego
+\* niestety nie znalazłem tłumaczenia oddającego sens pojęcia w języku polskim dlatego postanowiłem używać oryginalnego terminu angielskiego
 
 ![disruption](/assets/images/disruption.jpg){:class="img-responsive"}
 Photo credit: Magdalena Kaźmierska

@@ -30,5 +30,7 @@ W razie wątpliwości dopytujmy i sprawdzajmy.
 
 Pozwoli to uniknąć wielu przykrych konsekwencji.
 
+---
+
 ![Japan in SF](/assets/images/Japan in SF.jpg){:class="img-responsive"}
 Nie zawsze wszystko jest na jakie wygląda. To nie Japonia, to San Francisco.

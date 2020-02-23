@@ -56,8 +56,7 @@ prose:
 name: Blog w procesie tworzenia
 title: Blog w procesie tworzenia
 
-bio: >
-    Ten blog jest w procesie tworzenia, w zasadzie tak będzie zawsze, ale będą pojawiać się nowe treści...
+bio: Ten blog jest w procesie tworzenia, w zasadzie tak będzie zawsze, ale regularnie będą pojawiać się nowe treści...
 # if it's an external image, update below for true
 # better with square images
 external-image: false

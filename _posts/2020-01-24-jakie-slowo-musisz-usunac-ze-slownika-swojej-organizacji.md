@@ -30,4 +30,6 @@ Jak pokazuje przykład podany na początku **odpowiedni dobór słów kieruje my
 
 Jakie słowo muisz zmienić w swojej organizacji?
 
+---
+
 ![ratownicy](/assets/images/ratownicy.jpg){:class="img-responsive"}

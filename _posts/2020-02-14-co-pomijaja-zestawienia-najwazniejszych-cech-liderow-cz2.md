@@ -46,3 +46,8 @@ Zobacz też:
 2. Wystąpienie na APPx - [Ego lidera z perspektywy Kets de Vries](http://appx.pl/pl/lecture/view?id=67)
 
 [^1]: historię przytaczam za J. Badaracco „Questions of Character”, 2006
+
+---
+
+![boss](/assets/images/boss.jpg){:class="img-responsive"}
+Ed Rusha "Boss". Photo: M.Kaźmierski

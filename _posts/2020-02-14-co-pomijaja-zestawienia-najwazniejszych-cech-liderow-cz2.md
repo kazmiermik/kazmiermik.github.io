@@ -1,6 +1,7 @@
 ---
 published: true
-title: Co pmijają zestawienia najwazniejszych cech liderów? Część 2
+title: Co pomijają zestawienia najważniejszych cech liderów? (część 2)
+description: 'Wśród wielu odpowiedzialności często zapominamy o jednej, bardzo ważnej...'
 ---
 
 Na pierwszy rzut oka Tony Lowder - bohater powieści Louisa Auchinclosa "Ja złodziej" - to ucieleśnienie człowieka sukcesu [^1]. 
@@ -46,6 +47,8 @@ Zobacz też:
 2. Wystąpienie na APPx - [Ego lidera z perspektywy Kets de Vries](http://appx.pl/pl/lecture/view?id=67)
 
 [^1]: historię przytaczam za J. Badaracco „Questions of Character”, 2006
+
+
 
 ---
 

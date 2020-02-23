@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Na pierwszy rzut oka Tony Lowder - bohater powieści Louisa Auchinclosa "Ja złodziej" - to ucieleśnienie człowieka sukcesu [^1]. 
@@ -45,4 +45,3 @@ Zobacz też:
 2. Wystąpienie na APPx - [Ego lidera z perspektywy Kets de Vries](http://appx.pl/pl/lecture/view?id=67)
 
 [^1]: historię przytaczam za J. Badaracco „Questions of Character”, 2006
-

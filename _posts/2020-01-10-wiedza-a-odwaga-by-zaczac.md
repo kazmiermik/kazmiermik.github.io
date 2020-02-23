@@ -14,7 +14,7 @@ Prawdopodobne jest, że w wystarczającym stopniu opanowałeś niezbędne umiej�
 
 Możliwe jednak, że brakuje Ci *odwagi*.
 
-
+---
 
 ![skater](/assets/images/skater.jpg){:class="img-responsive"}
 Photo credit: Magdalena Kaźmierska

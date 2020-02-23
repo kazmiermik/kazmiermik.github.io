@@ -42,7 +42,7 @@ Czy jestem gotów czasem powiedzieć „nie" i nie spełnić oczekiwań wszystki
 
 
 Zobacz też: 
-1. [Co pomijają zestawienia najważniejszych cech liderów? Część 1]({% post_url 2019-02-01-Co-pomijają-zestawienia-najważniejszych-cech-liderów %})
+1. [Co pomijają zestawienia najważniejszych cech liderów? Część 1]({% post_url 2020-01-31-co-pomijaja-zestawienia-najwazniejszych-cech-liderow %})
 2. Wystąpienie na APPx - [Ego lidera z perspektywy Kets de Vries](http://appx.pl/pl/lecture/view?id=67)
 
 [^1]: historię przytaczam za J. Badaracco „Questions of Character”, 2006

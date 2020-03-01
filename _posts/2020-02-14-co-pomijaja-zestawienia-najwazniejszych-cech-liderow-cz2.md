@@ -1,9 +1,10 @@
 ---
 published: true
-title: Co pmijają zestawienia najwazniejszych cech liderów? Część 2
+title: Co pomijają zestawienia najważniejszych cech liderów? (część 2)
+description: 'Wśród wielu odpowiedzialności często zapominamy o jednej, bardzo ważnej...'
 ---
 
-Na pierwszy rzut oka Tony Lowder - bohater powieści Louisa Auchinclosa "Ja złodziej" - to ucieleśnienie człowieka sukcesu [^1]. 
+Na pierwszy rzut oka Tony Lowder - bohater powieści Louisa Auchinclosa "Ja złodziej" - to ucieleśnienie człowieka sukcesu\*. 
 
 Tony, to dobrze prosperujący nowojorski prawnik, który szczęśliwe życie rodzinne łączy z błyskotliwą karierą.
 Pracuje dla Komisji Nadzoru Giełdowego, wraz z przyjacielem prowadzi kancelarie prawną, inwestuje na giełdzie i jest dobrze zapowiadającym się politykiem.  
@@ -45,4 +46,11 @@ Zobacz też:
 1. [Co pomijają zestawienia najważniejszych cech liderów? Część 1]({% post_url 2020-01-31-co-pomijaja-zestawienia-najwazniejszych-cech-liderow %})
 2. Wystąpienie na APPx - [Ego lidera z perspektywy Kets de Vries](http://appx.pl/pl/lecture/view?id=67)
 
-[^1]: historię przytaczam za J. Badaracco „Questions of Character”, 2006
+\*: historię przytaczam za J. Badaracco „Questions of Character”, 2006
+
+
+
+---
+
+![boss](/assets/images/boss.jpg){:class="img-responsive"}
+Ed Rusha "Boss". Photo: M.Kaźmierski

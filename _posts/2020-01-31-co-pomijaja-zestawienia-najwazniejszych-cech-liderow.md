@@ -1,6 +1,6 @@
 ---
 published: true
-title: Co pomijają zestawienia najważniejszych cech liderów?
+title: Co pomijają zestawienia najważniejszych cech liderów? (część 1)
 description: >-
   Czytając wiele zestawień cech, które powinien mieć dobry szef i przywódca
   uderzyło mnie, że bardzo rzadko wymieniana jest jedna cecha - ta, dzięki

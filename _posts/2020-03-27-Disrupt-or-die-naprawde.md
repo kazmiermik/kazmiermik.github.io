@@ -22,7 +22,7 @@ Nawet jeśli nie mamy takich intencji, to nierozważne identyfikowanie się z po
 Już w 1936 roku George Orwell powiedział: „niechlujność języka ułatwia posiadanie głupich myśli” - co wydaje się być nadal aktualnym stwierdzeniem.
 W świecie dynamicznych zmian musimy zachować jasność umysłu i nie ulegać sloganom w złudnej nadziei, że w ten sposób da się okiełznać niepewność i znaleźć sposób na uchronienie swojego biznesu.
 
-Koncentracja na *”disrupt or die”* może odciągać nasze myślenie od być może ważniejszych i skuteczniejszych działań.  Jak naprawdę wyróżnić swój biznes ?Jak przestać konkurować na polach, na których konkurują wszyscy?. Jak spowodować, żeby ludzie sami o nas mówili? Co zaoferować, by nawiązać prawdziwe, głębokie relacje ze swoimi klientami? 
+Koncentracja na *”disrupt or die”* może odciągać nasze myślenie od być może ważniejszych i skuteczniejszych działań.  Jak naprawdę wyróżnić swój biznes? Jak przestać konkurować na polach, na których konkurują wszyscy?. Jak spowodować, żeby ludzie sami o nas mówili? Co zaoferować, by nawiązać prawdziwe, głębokie relacje ze swoimi klientami? 
 I wreszcie nie zapominajmy o starej, dobrej „zwyczajnej” innowacji - to ona wciąż częściej niż *disruptive innovation* zmienia nasze życie na lepsze.
 
 

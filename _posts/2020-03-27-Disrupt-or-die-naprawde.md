@@ -1,8 +1,9 @@
 ---
 published: true
-title: \"Disrupt or die!\" - naprawdę?
+title: Disrupt or die! - naprawdę?
 tile: null
 ---
+
 W poprzednim [poście] [http://michalkazmierski.com/Disruptive-innovation-nazywajmy-rzeczy-po-imieniu/]  pisałem o niezrozumieniu i nadużywaniu pojęcia *disruptive innovation*. Wiele publikacji, spotkań i konferencji promuje „wprowadzanie zamętu”\* jako koniecznego sposobu myślenia dla osiągnięcia sukcesu w „dzisiejszych czasach”. 
 Wielu tzw. „ewangelistów” nowych koncepcji mówi nam *disrupt or die*. Mamy transformować swoje firmy, modele biznesowe a nawet kariery.
 Czytając literaturę czy materiały dostępne w sieci mam jednak wrażenie, że to tylko kolejna moda, pozwalająca skomercjalizować atrakcyjnie brzmiącą koncepcję.

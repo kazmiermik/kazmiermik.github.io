@@ -33,4 +33,5 @@ I wreszcie nie zapominajmy o starej, dobrej „zwyczajnej” innowacji - to ona 
 
 
 ![disruption2](/assets/images/disruption2.JPG){:class="img-responsive"}
+
 Photo credit: Magdalena Kaźmierska

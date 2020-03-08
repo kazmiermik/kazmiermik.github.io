@@ -29,3 +29,8 @@ I wreszcie nie zapominajmy o starej, dobrej „zwyczajnej” innowacji - to ona 
 \* *disruption* - przerwanie, zakłócenie, zamęt. Niestety nie znalazłem tłumaczenia w pełni oddającego sens pojęć *disruption* i *disruptive innovation* w języku polskim dlatego postanowiłem używać oryginalnych terminów angielskich
 
 \*\*  cytuję za: [The Guardian](https://www.theguardian.com/technology/2016/jan/11/disruption-silicon-valleys-buzzword)
+
+
+
+![disruption2](/assets/images/disruption2.jpg){:class="img-responsive"}
+Photo credit: Magdalena Kaźmierska

@@ -1,6 +1,7 @@
 ---
 published: true
 title: Disruptive innovation - nazywajmy rzeczy po imieniu!
+description: Co naprawdę kryje się pod pojęciem \"disruptive innovation\"
 ---
 
 

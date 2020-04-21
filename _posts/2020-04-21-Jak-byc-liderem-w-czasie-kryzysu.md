@@ -54,8 +54,8 @@ Po pierwsze powinniśmy **komunikować się regularnie, znacznie częściej niż
 Po drugie, w warunkach normalnego biegu spraw w komunikacji koncentrujemy się na przekazywaniu wizji, strategii, planów działania czy oczekiwań. W czasie kryzysu ważne jest stworzenie  przestrzeni nie tylko dla własnych  wypowiedzi, ale też miejsce dla innych - tak, żeby mieli możliwość podzielenia się swoimi doświadczeniami, emocjami i mieli poczucie bycia wysłuchanymi.
 Taka „odwrócona komunikacja” jest bezcenna bo pozwala poznać to, co dzieje się w sercach i umysłach ludzi - a to z kolei pozwoli nam odpowiednio reagować.
 
-Jednocześnie nie powinniśmy  bać się uwolnionych emocji i tłumić ich przejawów.
-To nie jest właściwy moment na reakcje w stylu „nie chcę słuchać takich narzekań…”. Pozwól wypowiedzieć się innym a nawet nieco dramatyzować. To pomoże rozładować napięcie i otworzy drogę, by w odpowiednim momencie pokazać inną perspektywę i wrócić na konstruktywne tory.
+Jednocześnie nie powinniśmy bać się uwolnionych emocji i tłumić ich przejawów.
+To nie jest właściwy moment na reakcje w stylu „nie chcę słuchać takich narzekań…”. Pozwólmy wypowiedzieć się innym a nawet nieco dramatyzować. To pomoże rozładować napięcie i otworzy drogę, by w odpowiednim momencie pokazać inną perspektywę i wrócić na konstruktywne tory.
 
 Strategia odwróconej komunikacji zadziała jednak tylko gdy zespół będzie miał  poczucie kontaktu ze swoim liderem. Tu pojawia się pytanie jak więc powinien prezentować się lider, któremu zespół zaufa w czasie kryzysu? 
 Czasy kryzysu skłaniają do przyjmowania bohaterskich postaw „niezłomnych i nieustraszonych przywódców”. Bezkrytyczne przyjmowanie takiej postawy niesie ze sobą ryzyko w sytuacjach kiedy nie wiemy co się zdarzy i co tak naprawdę robić. Próby zgrywania „wszechwiedzącego twardziela” mogą prędzej czy później zostać zweryfikowane przez rzeczywistość i skończyć się przykrym odkryciem, że „jednak król jest nagi”.

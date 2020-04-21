@@ -42,7 +42,7 @@ Im szybciej zaakceptujemy sytuację taką jaka jest - z ryzykami i konsekwencjam
 
 **Po drugie: Jak się masz mój zespole?  – czyli dostrzegamy i rozumiemy emocje innych.**
 
-W normalnych warunkach jednym z pierwszoplanowych zadań lidera jest koncentracja na zadaniach. W sytuacji kryzysowej podejmowanie odpowiednich działań jest też niezwykle ważne, lecz koncentracja wyłącznie na akcji nie wystarczy. Konieczne jest dostrzeżenie emocji innych i wykreowanie przestrzeni dla ich ujawnienia, co może pomóc w poradzeniu sobie z nimi. Jednym z najważniejszych narzędzi, którymi dysponujemy chcąc wpływać na emocje zespołu jest komunikacja.
+W normalnych warunkach jednym z pierwszoplanowych celów lidera jest koncentracja na zadaniach. W sytuacji kryzysowej podejmowanie odpowiednich działań jest też niezwykle ważne, lecz koncentracja wyłącznie na akcji nie wystarczy. Konieczne jest dostrzeżenie emocji innych i wykreowanie przestrzeni dla ich ujawnienia, co może pomóc w poradzeniu sobie z nimi. Jednym z najważniejszych narzędzi, którymi dysponujemy chcąc wpływać na emocje zespołu jest komunikacja.
 
 Ważne jest jednak, żebyśmy uświadomili sobie, że komunikacja w czasie kryzysu takiego jak obecny ma inne cele i powinna wyglądać inaczej niż zwykle.
 

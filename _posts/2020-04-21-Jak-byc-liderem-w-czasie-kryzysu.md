@@ -59,8 +59,7 @@ To nie jest właściwy moment na reakcje w stylu „nie chcę słuchać takich n
 
 Strategia odwróconej komunikacji zadziała jednak tylko gdy zespół będzie miał poczucie kontaktu ze swoim liderem. Tu pojawia się pytanie jak więc powinien prezentować się lider, któremu zespół zaufa w czasie kryzysu? 
 Czasy kryzysu skłaniają do przyjmowania bohaterskich postaw „niezłomnych i nieustraszonych przywódców”. Bezkrytyczne przyjmowanie takiej postawy niesie ze sobą ryzyko w sytuacjach kiedy nie wiemy co się zdarzy i co tak naprawdę robić. Próby zgrywania „wszechwiedzącego twardziela” mogą prędzej czy później zostać zweryfikowane przez rzeczywistość i skończyć się przykrym odkryciem, że „jednak król jest nagi”.
-
-Nawet jako liderzy nie musimy wiedzieć wszystkiego, bo nikt nie wie. Wiemy jednak, jaki będzie nasz następny krok - dyktowany analizą sytuacji i wyłaniającymi się możliwościami.
+Nawet jako liderzy nie musimy jednak wiedzieć wszystkiego, bo nikt nie wie! Wiemy jednak, jaki będzie nasz następny krok - dyktowany analizą sytuacji i wyłaniającymi się możliwościami.
 Prof. Declan Fitzsimonds z INSEAD mówi by - używając metafory - lider „pozostał jak dowódca na koniu” - solidnie osadzony w swojej roli. Można dodać, że z konia także  więcej widać…
 
 Nie zapominajmy, że obecny kryzys - choć nie wiemy jak długo będzie trwał - minie. Z punktu widzenia ludzi i organizacji nie mniej ważne niż radzenie sobie w kryzysie jest to, w jakim stanie będziemy, kiedy kryzys skończy się.

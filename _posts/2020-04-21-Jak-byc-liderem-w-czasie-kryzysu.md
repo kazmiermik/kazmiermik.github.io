@@ -70,3 +70,7 @@ Co zobaczymy kiedy kurz opadnie? W dużej mierze zależeć będzie od postawy i 
 
 
 \*  zobacz: [Discomfort you are feeling is grief](https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief?autocomplete=true), Harvard Business Review
+
+![moon](/assets/images/moon.JPG){:class="img-responsive"}
+
+

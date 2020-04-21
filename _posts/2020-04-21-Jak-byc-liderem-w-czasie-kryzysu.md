@@ -1,6 +1,6 @@
 ---
 published: true
-title: Jak <BYĆ> liderem w czasie kryzysu?
+title: Jak BYĆ liderem w czasie kryzysu?
 ---
 
 

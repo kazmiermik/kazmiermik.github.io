@@ -32,7 +32,7 @@ Dla wielu podjęcie „zdecydowanych działań” jest naturalnym odruchem. Trze
 
 W związku z powyższym lider chcący skutecznie odnaleźć się w kryzysie musi na początek odpowiedzieć na dwa zasadnicze pytania: **„co się dzieje ze mną?”** oraz **„co się dzieje z ludźmi dokoła mnie?”**.
 
-Obecna sytuacja najlepiej chyba ilustruje fałszywość twierdzenie, że „w biznesie nie ma miejsca na emocje”. Tym czasem emocje są z nami zawsze i wszedzie i stanowią dla nas bardo cenne wskazówki.
+Obecna sytuacja najlepiej chyba ilustruje fałszywość twierdzenie, że „w biznesie nie ma miejsca na emocje”. Tym czasem emocje są z nami zawsze i wszedzie i stanowią dla nas bardzo cenne wskazówki.
 Dlatego musimy zacząć od refleksji nad naszymi emocjami i zachowaniem. Dzięki temu będziemy w stanie właściwie ocenić sytuację oraz unikniemy pułapek związanych z impulsywnymi działaniami, których cel trudno racjonalnie uzasadnić.
 Lider, który zrozumie swoje emocje i pozostanie w kontakcie z nimi będzie w stanie zrozumieć i odnieść się we właściwy sposób do potrzeb innych.
 

@@ -17,10 +17,11 @@ Drugą rzeczą jest uświadomienie sobie skali **emocjonalnego wpływu** tego co
 
 Łatwo powiedzieć, trudniej zrobić… 
 Lider przecież też jest człowiekiem i podlega temu samemu stresowi i niepewności co jego zespół.
+Dodatkowo, szczególnie w kryzysie, lider musi zmierzyć się z dwoma wyzwaniami - tym dla wielu bardzo oczywistym "jak działać" oraz - conajmniej równie ważnym - "jak być".
 
 Co wobec tego ma robić lider i jak zachować się w nowej sytuacji?
 
-Szczególnie w kryzysie lider musi zmierzyć się z dwoma wyzwaniami: "jak działać" oraz - conajmniej równie ważnym - "jak być".
+
 
 **Lider musi przede wszystkim zająć się sobą.** Brzmi paradoksalnie? Niekoniecznie.
 Obecna sytuacja najlepiej chyba ilustruje fałszywość twierdzenie, że „w biznesie nie ma miejsca na emocje”.

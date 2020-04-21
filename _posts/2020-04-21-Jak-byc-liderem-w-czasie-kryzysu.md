@@ -24,18 +24,19 @@ Co wobec tego ma robić lider i jak zachować się w nowej sytuacji?
 
 
 **Lider musi przede wszystkim zająć się sobą.** Brzmi paradoksalnie? Niekoniecznie.
-Obecna sytuacja najlepiej chyba ilustruje fałszywość twierdzenie, że „w biznesie nie ma miejsca na emocje”.
+.
 
 **Po pierwsze: Jak się masz liderze? – czyli refleksja nad swoimi emocjami i działaniem.**
 
 Dla wielu podjęcie „zdecydowanych działań” jest naturalnym odruchem. Trzeba jednak zadać sobie pytanie czy rzucenie się w wir akcji rzeczywiście związane jest z wymogami sytuacji i stanowi konstruktywną odpowiedz na pojawiające się wyzwania? Czy może staramy się zająć działaniem w celu stłumienia pojawiającego się w nas niepokoju?
 
-Dlatego lider chcący skutecznie odnaleźć się w kryzysie musi na początek odpowiedzieć na dwa zasadnicze pytania: **„co się dzieje ze mną?”** oraz **„co się dzieje z ludźmi dokoła mnie?”**.
+W związku z powyższym lider chcący skutecznie odnaleźć się w kryzysie musi na początek odpowiedzieć na dwa zasadnicze pytania: **„co się dzieje ze mną?”** oraz **„co się dzieje z ludźmi dokoła mnie?”**.
 
-Musimy zacząć od refleksji nad naszymi emocjami i zachowaniem. Dzięki temu będziemy w stanie właściwie ocenić sytuację oraz unikniemy pułapek związanych z impulsywnymi działaniami, których cel trudno racjonalnie uzasadnić.
+Obecna sytuacja najlepiej chyba ilustruje fałszywość twierdzenie, że „w biznesie nie ma miejsca na emocje”. Tym czasem emocje są z nami zawsze i wszedzie i stanowią dla nas bardo cenne wskazówki.
+Dlatego musimy zacząć od refleksji nad naszymi emocjami i zachowaniem. Dzięki temu będziemy w stanie właściwie ocenić sytuację oraz unikniemy pułapek związanych z impulsywnymi działaniami, których cel trudno racjonalnie uzasadnić.
 Lider, który zrozumie swoje emocje i pozostanie w kontakcie z nimi będzie w stanie zrozumieć i odnieść się we właściwy sposób do potrzeb innych.
 
-Dlatego musimy od czasu do czasu zatrzymać się i nazwać odczuwane emocje. Czy jest to niepokój, drażliwość, skłonność do irytacji? Czy mam tendencję do wycofywania się czy też czuję przypływ energii i siły związanej z możliwością działania?
+Stąd od czasu do czasu musimy zatrzymać się i nazwać odczuwane emocje. Czy jest to niepokój, drażliwość, skłonność do irytacji? Czy mam tendencję do wycofywania się czy też czuję przypływ energii i siły związanej z możliwością działania?
 Obserwacja siebie pozwoli zauważyć moment, w którym to co robimy przestaje służyć pierwotnemu celowi, a zaczyna być działaniem mającym oddzielić nas od rzeczywistości - staje się mechanizmem obronnym odciągającym nas i naszą uwagę od innych ważnych, choć często trudnych spraw.
 
 W sytuacjach, w których działamy w obliczu niepewności i niepełnej wiedzy trzeba pozwolić sobie na zatrzymanie się, danie sobie przestrzeni i czasu na „rozejrzenie się” w rzeczywistości. 

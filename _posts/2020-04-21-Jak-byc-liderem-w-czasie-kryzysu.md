@@ -24,7 +24,7 @@ Co wobec tego ma robić lider i jak zachować się w nowej sytuacji?
 **Lider musi przede wszystkim zająć się sobą.** Brzmi paradoksalnie? Niekoniecznie.
 .
 
-**Po pierwsze: Jak się masz liderze? – czyli refleksja nad swoimi emocjami i działaniem.**
+##Po pierwsze: Jak się masz liderze? – czyli refleksja nad swoimi emocjami i działaniem.##
 
 Dla wielu podjęcie „zdecydowanych działań” jest naturalnym odruchem. Trzeba jednak zadać sobie pytanie czy rzucenie się w wir akcji rzeczywiście związane jest z wymogami sytuacji i stanowi konstruktywną odpowiedz na pojawiające się wyzwania? Czy może staramy się zająć działaniem w celu stłumienia pojawiającego się w nas niepokoju?
 

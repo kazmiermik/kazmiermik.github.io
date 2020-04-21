@@ -13,7 +13,7 @@ Dlatego pierwszą rzeczą, którą musi sobie uświadomić każdy lider jest to,
 
 Drugą rzeczą jest uświadomienie sobie skali **emocjonalnego wpływu** tego co się dzieje na ludzi i społeczeństwa - a zwłaszcza niepokoju, smutku czy żalu\* - naturalnych reakcji w obliczu nieznanego zagrożenia. Doniesienia medialne, których wiarygodności nie jesteśmy w stanie zweryfikować nasilają te uczucia i tak naprawdę tylko zwiększają poczucie niepewności.
 
-**Rolą lidera, prócz podejmowania działań niezbędnych dla zachowania ciągłości biznesu jest pomoc sobie i swoim ludziom w zrozumieniu i odnalezieniu się w sytuacji.**.
+**Rolą lidera, prócz podejmowania działań niezbędnych dla zachowania ciągłości biznesu jest pomoc sobie i swoim ludziom w zrozumieniu i odnalezieniu się w sytuacji.**
 
 Łatwo powiedzieć, trudniej zrobić… 
 Lider przecież też jest człowiekiem i podlega temu samemu stresowi i niepewności co jego zespół.

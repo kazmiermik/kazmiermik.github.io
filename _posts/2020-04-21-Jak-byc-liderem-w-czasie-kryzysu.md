@@ -21,8 +21,6 @@ Dodatkowo, szczególnie w kryzysie, lider musi zmierzyć się z dwoma wyzwaniami
 
 Co wobec tego ma robić lider i jak zachować się w nowej sytuacji?
 
-
-
 **Lider musi przede wszystkim zająć się sobą.** Brzmi paradoksalnie? Niekoniecznie.
 .
 
@@ -40,7 +38,7 @@ Stąd od czasu do czasu musimy zatrzymać się i nazwać odczuwane emocje. Czy j
 Obserwacja siebie pozwoli zauważyć moment, w którym to co robimy przestaje służyć pierwotnemu celowi, a zaczyna być działaniem mającym oddzielić nas od rzeczywistości - staje się mechanizmem obronnym odciągającym nas i naszą uwagę od innych ważnych, choć często trudnych spraw.
 
 W sytuacjach, w których działamy w obliczu niepewności i niepełnej wiedzy trzeba pozwolić sobie na zatrzymanie się, danie sobie przestrzeni i czasu na „rozejrzenie się” w rzeczywistości. 
-Gorąco achęcam do skorzystania z technik mindfullness, które pomagają nam w uspokojeniu umysłu i **skoncentrowaniu naszej uwagi na „tu i teraz”.** Jeżeli pozostaniemy twardo osadzeni w rzeczywistości, zaakceptujmy fakt, że nie mamy gotowych rozwiązań, wsłuchajmy się w napływające sygnały. W miarę rozwoju sytuacji możliwe rozwiązania zaczną się wyłaniać - ale musimy być uważni i otwarci, żeby je dostrzec.
+Gorąco zachęcam do skorzystania z technik mindfullness, które pomagają nam w uspokojeniu umysłu i **skoncentrowaniu naszej uwagi na rzeczywistości „tu i teraz”.** Jeżeli pozostaniemy twardo osadzeni w rzeczywistości, zaakceptujmy fakt, że nie mamy gotowych rozwiązań, wsłuchajmy się w napływające sygnały. W miarę rozwoju sytuacji możliwe rozwiązania zaczną się wyłaniać - ale musimy być uważni i otwarci, żeby je dostrzec.
 Im szybciej zaakceptujemy sytuację taką jaka jest - z ryzykami i konsekwencjami - tym z większą jasnością umysłu będziemy mogli mierzyć się z nią reagując bez podejmowania pochopnych działań, których skutkiem może okazać się tylko zbyt wczesne zużycie zasobów i energii zespołu.
 
 **Po drugie: Jak się masz mój zespole?  – czyli dostrzegamy i rozumiemy emocje innych.**

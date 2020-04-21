@@ -8,7 +8,7 @@ Niemal każdy zestawy wskazówek „jak być dobrym” liderem podkreśla aspekt
 
 Kryzys, w którym się znajdujemy różni się jednak znacząco od innych nagłych i trudnych sytuacji, z którymi musieli mierzyć się liderzy i organizacje. Do radzenia sobie z „typowymi” kryzysami liderzy mieli szansę się przygotować. W trakcie kariery zbierali wiedzę i doświadczenie, a potrzebna ekspertyza była dostępna w firmie lub u zewnętrznych konsultantów. Teraz jednak sytuacja jest inna, albowiem kryzys został spowodowany czynnikiem  zewnętrznym, biologicznym, który dotknął niemal cały biznesowy system. Ze względu na interwencje rządów, firmy mają znacznie ograniczone pole manewru, kontroli sytuacji i wpływu na nią. I na dodatek wszystko to dzieje się w skali globalnej.
 
-Dlatego pierwszą rzeczą, którą musi sobie uświadomić każdy lider jest to, **że mamy do czynienia z sytuacją absolutnie nową dla wszystkich**. Sytuacją, w której trudno wprost odwołać się do doświadczeń z przeszłości i zastosować sprawdzone metody.
+Dlatego pierwszą rzeczą, którą musi sobie uświadomić każdy lider jest to, **że mamy do czynienia z sytuacją absolutnie nową dla wszystkich**. Sytuacją, w której trudno wprost odwołać się do doświadczeń z przeszłości, zastosować sprawdzone metody i opierać się wyłącznie na umiejętnościach zorientowanych na działanie.
 
 Drugą rzeczą jest uświadomienie sobie skali **emocjonalnego wpływu** tego co się dzieje na ludzi i społeczeństwa - a zwłaszcza niepokoju, smutku czy żalu\*, - naturalnych reakcji w obliczu nieznanego zagrożenia. Doniesienia medialne, których wiarygodności nie jesteśmy w stanie zweryfikować nasilają te uczucia i tak naprawdę tylko zwiększają poczucie niepewności.
 

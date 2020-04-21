@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Jak <BYĆ> liderem w czasie kryzysu?
 ---
 
 
@@ -70,4 +71,4 @@ W sytuacjach tak wielu niewiadomych rolą liderów, naszą rolą, nie jest wiedz
 Co zobaczymy kiedy kurz opadnie? W dużej mierze zależeć będzie od postawy i działań lidera, od tego w jaki sposób zdecyduje się **być** w tej sytuacji. Od rozpoznania, nazwania i zaakceptowania emocji swoich i współpracowników, od powstrzymania się od impulsywnych nieprzemyślanych akcji a w zamian  stworzenia przestrzeni dla obserwowania rzeczywistości i podejmowania działań w oparciu wyłaniające się szanse i możliwości.
 
 
-\*  zobacz: [Discomfort you are feeling is grief][https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief?autocomplete=true], Harvard Business Review 
+\*  zobacz: [Discomfort you are feeling is grief][https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief?autocomplete=true], Harvard Business Review

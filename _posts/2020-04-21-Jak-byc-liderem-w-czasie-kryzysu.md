@@ -11,7 +11,7 @@ Kryzys, w którym się znajdujemy różni się znacząco od innych nagłych i tr
 
 Dlatego pierwszą rzeczą, którą musi sobie uświadomić każdy lider jest to, **że mamy do czynienia z sytuacją absolutnie nową dla wszystkich**. Sytuacją, w której trudno wprost odwołać się do doświadczeń z przeszłości, zastosować sprawdzone metody i opierać się wyłącznie na umiejętnościach zorientowanych na działanie.
 
-Drugą rzeczą jest uświadomienie sobie skali **emocjonalnego wpływu** tego co się dzieje na ludzi i społeczeństwa - a zwłaszcza niepokoju, smutku czy żalu\*, - naturalnych reakcji w obliczu nieznanego zagrożenia. Doniesienia medialne, których wiarygodności nie jesteśmy w stanie zweryfikować nasilają te uczucia i tak naprawdę tylko zwiększają poczucie niepewności.
+Drugą rzeczą jest uświadomienie sobie skali **emocjonalnego wpływu** tego co się dzieje na ludzi i społeczeństwa - a zwłaszcza niepokoju, smutku czy żalu\* - naturalnych reakcji w obliczu nieznanego zagrożenia. Doniesienia medialne, których wiarygodności nie jesteśmy w stanie zweryfikować nasilają te uczucia i tak naprawdę tylko zwiększają poczucie niepewności.
 
 **Rolą lidera, prócz podejmowania działań niezbędnych dla zachowania ciągłości biznesu jest pomoc sobie i swoim ludziom w zrozumieniu i odnalezieniu się w sytuacji.**.
 

@@ -4,8 +4,6 @@ title: Jak BYĆ liderem w czasie kryzysu?
 ---
 
 
-Jak <być> liderem w czasie kryzysu?
-
 Niemal każdy zestawy wskazówek „jak być dobrym” liderem podkreśla aspekty wymagające aktywności - takie jak: kształtowanie wizji, zorientowanie na działanie, pewność siebie czy decyzyjność.
 
 Kryzys, w którym się znajdujemy różni się jednak znacząco od innych nagłych i trudnych sytuacji, z którymi musieli mierzyć się liderzy i organizacje. Do radzenia sobie z „typowymi” kryzysami liderzy mieli szansę się przygotować. W trakcie kariery zbierali wiedzę i doświadczenie, a potrzebna ekspertyza była dostępna w firmie lub u zewnętrznych konsultantów. Teraz jednak sytuacja jest inna, albowiem kryzys został spowodowany czynnikiem  zewnętrznym, biologicznym, który dotknął niemal cały biznesowy system. Ze względu na interwencje rządów, firmy mają znacznie ograniczone pole manewru, kontroli sytuacji i wpływu na nią. I na dodatek wszystko to dzieje się w skali globalnej.

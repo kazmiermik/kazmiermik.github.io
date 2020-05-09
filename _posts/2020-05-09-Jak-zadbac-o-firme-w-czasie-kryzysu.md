@@ -1,9 +1,10 @@
 ---
 published: true
+title: Jak zadbać o firmę w czasie kryzysu?
 ---
 
  
-Jak zadbać o firmę w czasie kryzysu?
+**Jak zadbać o firmę w czasie kryzysu?**
 
 W ostatnich dniach miałem okazję uczestniczyć w seminariach i wirtualnych grupach dyskusyjnych, w których szefowie i menedżerowie firm z różnych stron świata wymieniali się przemyśleniami i doświadczeniami związanymi z prowadzeniem biznesu w czasie pandemii.
 Mimo różnorodności branż i krajów pochodzenia z dyskusji wyłoniło się kilka wspólnych i interesujących wątków. Chcę przedstawić niektóre z nich, ponieważ pokazują zarówno dobre kierunki działań jak i pułapki, w które wpaść mogą liderki i liderzy stający w obliczu się z kryzysu.

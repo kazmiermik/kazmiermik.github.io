@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
  
@@ -82,5 +82,3 @@ Jak mówi powiedzenie przypisywane Churchillowi — dużą stratą byłoby zmarn
 >\- po pierwsze, jest za wcześnie, żeby uznać, że znaleźliśmy się w „nowej normalności”, sytuacja jest dynamiczna i moim zdaniem daleka od uzyskania nowego stanu równowagi; 
 >\- po drugie, jednym z największych wyzwań — szczególnie będąc w odosobnieniu — jest wytworzenie sobie jak najbardziej obiektywnej wizji otaczającej rzeczywistości i uniknięcie wpadnięcia w pułapkę „efektu potwierdzenia” (ang. *confirmation bias*) kiedy to chętniej przyjmujemy informacje potwierdzające nasze oczekiwania;
 >\- po trzecie, nie możemy zapominać o sobie. Chcąc pomagać innym musimy mieć dość sił fizycznych i mentalnych by to robić. W końcu w samolocie przed startem słyszymy, że w sytuacji awaryjnej musimy maskę tlenową założyć najpierw sobie a potem pomagać innym.
-
-

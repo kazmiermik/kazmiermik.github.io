@@ -1,6 +1,8 @@
 ---
 published: true
 title: Jak BYĆ liderem w czasie kryzysu?
+lang: pl
+ref: lider-kryzys-20200421
 ---
 
 

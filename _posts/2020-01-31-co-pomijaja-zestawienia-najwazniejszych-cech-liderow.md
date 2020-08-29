@@ -5,6 +5,8 @@ description: >-
   Czytając wiele zestawień cech, które powinien mieć dobry szef i przywódca
   uderzyło mnie, że bardzo rzadko wymieniana jest jedna cecha - ta, dzięki
   której możemy korzystać z pozostałych...
+lang: pl
+ref: cechy-liderow-20200131
 ---
 
 

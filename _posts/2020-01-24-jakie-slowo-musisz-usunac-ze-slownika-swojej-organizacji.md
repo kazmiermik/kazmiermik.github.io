@@ -4,6 +4,8 @@ title: Jakie słowa musisz usunąć ze słownika swojej organizacji?
 description: >-
   Niekiedy zastąpienie jednego słowa innym, bardziej odpowiednim, może przynieść
   zaskakujące efekty...
+lang: pl
+ref: slownik-20200124
 ---
 
 W artykule [„Good leaders don’t use bad words”](https://hbr.org/2013/06/good-leaders-dont-use-bad-word) Michael Schrage przytacza historię pewnego warsztatu.

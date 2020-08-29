@@ -4,6 +4,8 @@ description: >-
   Zastąpienie jednego słowa innym, bardziej odpowiednim, może przynieść
   zaskakujące efekty.
 title: Jakie słowa powinieneś usunąć ze słownika swojej organizacji?
+lang: pl
+ref: slowa-20190112
 ---
 
 

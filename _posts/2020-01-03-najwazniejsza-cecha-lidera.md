@@ -2,6 +2,8 @@
 published: true
 title: Najważniejsza cecha lidera
 description: Wśród wileu cech opisujących liderów jest ta - jedna z najważniejszych
+lang: pl
+ref: cecha-20200103
 ---
 
 Jest wiele cech opisujących lidera.

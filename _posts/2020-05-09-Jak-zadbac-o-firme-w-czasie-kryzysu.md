@@ -1,6 +1,8 @@
 ---
 published: true
 title: Jak zadbać o firmę w czasie kryzysu?
+lang: pl
+ref: firma-kryzys-20200509
 ---
 
 

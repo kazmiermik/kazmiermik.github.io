@@ -3,6 +3,8 @@ layout: page
 title: O autorze
 permalink: /about/
 published: true
+lang: pl
+ref: about
 ---
 
 {: style="text-align: center;"}

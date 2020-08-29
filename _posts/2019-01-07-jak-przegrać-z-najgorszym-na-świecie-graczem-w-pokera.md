@@ -7,6 +7,8 @@ description: >-
   Jak dochodzi do tego, że dzieje się coś, czego się zupełnie nie spodziewamy?
   Choć przecież wszystko było jasne!
 title: Jak przegrać z najgorszym na świecie graczem w pokera?
+lang: pl
+ref: poker-20190107
 ---
 
 

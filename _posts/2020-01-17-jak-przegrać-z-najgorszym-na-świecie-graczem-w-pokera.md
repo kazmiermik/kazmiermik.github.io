@@ -4,6 +4,8 @@ title: Jak przegrać z najgorszym na świecie graczem w pokera?
 description: >-
   Jak dochodzi do tego, że dzieje się coś, czego się zupełnie nie spodziewamy?
   Choć przecież wszystko było jasne!
+lang: pl
+ref: poker-20200117
 ---
 Scena z filmu "Gra o wszystko" (Molly's Game), partia pokera. Przy stole zostało dwóch graczy: Harlan - doświadczony, rozsądny, jedyny gracz a nie hazardzista, zna zasady, zawsze wygrywa i Brad - pseudonim "Bad Brad", bo jest aż tak zły... nie zna i nawet nie stara się poznać zasad gry. 
 

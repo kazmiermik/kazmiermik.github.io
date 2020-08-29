@@ -157,3 +157,31 @@ compress_html:
         - stage
 
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+
+defaults:
+    -
+     scope:
+         path: ""
+     values:
+         lang: pl
+         base-url: "/"
+    -
+     scope:
+         path: en
+     values:
+         lang: en
+         base-url: "/en/"
+
+t:
+    home:
+        pl: "Strona główna"
+        en: "Home"
+    about:
+        pl: "O autorze"
+        en: "About"
+
+languages:
+    pl:
+        label: PL
+    en:
+        label: EN

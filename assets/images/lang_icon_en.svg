@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 41.377063 41.025321"
+   width="827.54126"
+   height="820.50641"
+   version="1.1"
+   id="svg997"
+   sodipodi:docname="lang_icon_en.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
+  <metadata
+     id="metadata1003">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1001">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1019">
+      <ellipse
+         ry="14.862476"
+         rx="24.897684"
+         cy="15.020787"
+         cx="30.022951"
+         id="ellipse1021"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.0478509" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3788"
+       id="linearGradient3790"
+       x1="2.9549222"
+       y1="5.0342603"
+       x2="13.049188"
+       y2="5.0342603"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.9999999,0,0,3.9999999,-11.231752,0.46355455)" />
+    <linearGradient
+       id="linearGradient3788"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.70445341;"
+         offset="0"
+         id="stop3786" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="true"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1066"
+     inkscape:window-height="725"
+     id="namedview999"
+     showgrid="false"
+     inkscape:zoom="0.42725687"
+     inkscape:cx="408.02495"
+     inkscape:cy="223.62781"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg997" />
+  <clipPath
+     id="s">
+    <path
+       d="M 0,0 V 30 H 60 V 0 Z"
+       id="path979" />
+  </clipPath>
+  <clipPath
+     id="t">
+    <path
+       d="m 30,15 h 30 v 15 z m 0,0 V 30 H 0 Z m 0,0 H 0 V 0 Z m 0,0 V 0 h 30 z"
+       id="path982" />
+  </clipPath>
+  <g
+     clip-path="url(#clipPath1019)"
+     id="g995"
+     transform="matrix(0.81085982,0,0,1.3465228,-3.7127731,0.17108524)">
+    <path
+       d="M 0,0 V 30 H 60 V 0 Z"
+       fill="#012169"
+       id="path985" />
+    <path
+       d="M 0,0 60,30 M 60,0 0,30"
+       stroke="#ffffff"
+       stroke-width="6"
+       id="path987" />
+    <path
+       d="M 0,0 60,30 M 60,0 0,30"
+       clip-path="url(#t)"
+       stroke="#c8102e"
+       stroke-width="4"
+       id="path989" />
+    <path
+       d="M 30,0 V 30 M 0,15 h 60"
+       stroke="#ffffff"
+       stroke-width="10"
+       id="path991" />
+    <path
+       d="M 30,0 V 30 M 0,15 h 60"
+       stroke="#c8102e"
+       stroke-width="6"
+       id="path993" />
+  </g>
+  <ellipse
+     ry="20.012661"
+     rx="20.188532"
+     cy="20.512661"
+     cx="20.688532"
+     id="ellipse888-6"
+     style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient3790);stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>

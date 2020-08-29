@@ -19,6 +19,7 @@ ref: index
     {% assign posts = site.posts | where:"lang", page.lang %}
 	  {% if posts.size == 0 %}
         <p class="text-center">English blog coming soon!</p>
+    {% endif %}
 		{% for post in posts %}
   		  {% if post.published == true %}
 	    	  {% include blog-post.html %}

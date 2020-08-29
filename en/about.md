@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O autorze
-permalink: /about/
+title: About
+permalink: /en/about/
 published: true
 lang: en
 ref: about

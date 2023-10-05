@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## A New Post
+## A New Post 
 
 Mimo, że pandemia nie jest, przynajmniej chwilowo, bezpośrednim zagrożeniem, wyzwań dla firm wciąż nie brakuje.
 

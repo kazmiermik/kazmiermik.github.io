@@ -4,8 +4,6 @@ lang: pl
 title: Wyzwania dla Liderów w Obliczu Zmian i Złożoności
 ---
 
-## A New Post 
-
 Mimo, że pandemia nie jest, przynajmniej chwilowo, bezpośrednim zagrożeniem, wyzwań dla firm wciąż nie brakuje.
 
 Wiele liderów i liderek niemal codziennie zastanawia się jak skutecznie zarządzać firmą w środowisku pełnym niepewności i złożoności.

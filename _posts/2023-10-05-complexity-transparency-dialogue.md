@@ -2,6 +2,7 @@
 published: false
 lang: en
 title: null
+tile: null
 ---
 
 While the pandemic is not, at least for now, an immediate threat, businesses still face ongoing challenges. Every day, leaders grapple with managing in a changing, complex, and uncertain environment.

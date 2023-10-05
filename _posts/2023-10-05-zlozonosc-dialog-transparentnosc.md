@@ -1,6 +1,9 @@
 ---
 published: false
+lang: pl
+title: Wyzwania dla Liderów w Obliczu Zmian i Złożoności
 ---
+
 ## A New Post 
 
 Mimo, że pandemia nie jest, przynajmniej chwilowo, bezpośrednim zagrożeniem, wyzwań dla firm wciąż nie brakuje.

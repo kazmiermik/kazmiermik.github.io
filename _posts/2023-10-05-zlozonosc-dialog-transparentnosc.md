@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 lang: pl
 title: Wyzwania dla Liderów w Obliczu Zmian i Złożoności
 ---

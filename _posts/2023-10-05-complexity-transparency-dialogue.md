@@ -41,7 +41,3 @@ However, by engaging in a dialogue with the rest of the organisation, by listeni
 Effective, two-way communication becomes pivotal in times of uncertainty or new market trends. From the employees' perspective, it facilitates understanding of often painful actions, prevents disorientation and frustration, and ultimately contributes to maintaining trust and engagement. It supports the need for independent thinking and taking responsibility, both of which are crucial in such challenging moments.
 
 The challenge for leaders, however, often lies in confronting reality, even if it means admitting their own ignorance.
-
-
-
-

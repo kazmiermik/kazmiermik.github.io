@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 lang: pl
 title: >-
   Sztuka słuchania – klucz do skutecznego przewodzenia w obliczu zmian i

@@ -5,6 +5,7 @@ title: >-
   Sztuka słuchania – klucz do skutecznego przewodzenia w obliczu zmian i
   złożoności
 ---
+
 W poprzednim wpisie [https://tinyurl.com/bh6uaybm] pisałem o ważnych nawykach, które jako liderki i liderzy musimy rozwijać by skutecznie działać w obliczu zmiany i złożoności. Pisałem o roli transparentności w komunikacji, korzyściach z prowadzenia dialogu z pracownikami na różnych szczeblach organizacji oraz umiejętności przyznawania się do niewiedzy.
 
 Tymczasem, jednym z pokutujących przekonań jest to, że liderka czy lider musi mieć odpowiedź na wszystko, a przyznanie się do niewiedzy jest oznaką słabości.

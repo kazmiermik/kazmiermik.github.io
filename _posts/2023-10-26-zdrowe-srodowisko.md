@@ -5,9 +5,6 @@ title: 'Jak Tworzyć Zdrowe Środowisko Pracy? Co musisz wiedzieć, żeby zaczą
 ---
 
 
-
-**Jak Tworzyć Zdrowe Środowisko Pracy? Co musisz wiedzieć, żeby zacząć od dziś.
-
 Jednym z głównych zadań liderów jest tworzenie zdrowego środowiska pracy, które sprzyja zarówno efektywności, jak i dba o dobrostan pracowników. Nawet najbardziej utalentowani ludzie nie wykorzystają swojego potencjału, jeśli środowisko pracy nie stworzy warunków, w których mogą z niego skorzystać. Badania, takie jak projekt "Aristotle" przeprowadzony przez Google, wyraźnie pokazały, że kluczowym czynnikiem sukcesu, odróżniającym zespoły osiągające najlepsze wyniki od pozostałych, jest panująca w nich atmosfera zaufania, otwartości i wsparcia. Autorka badania, Amy Edmondson nazwała taką atmosferę bezpieczeństwem psychologicznym \*.
 
 Budowanie zdrowego środowiska pracy w organizacji to proces złożony, który nie zawsze jest  w całości w gestii danego lidera, ale istnieją obszary, na które każdy lider i liderka może wpływać, niezależnie od swojego poziomu w organizacyjnej hierarchii i dostępnych zasobów. 

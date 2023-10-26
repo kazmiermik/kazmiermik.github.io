@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 lang: pl
 title: 'Jak Tworzyć Zdrowe Środowisko Pracy? Co musisz wiedzieć, żeby zacząć od dziś.'
 ---

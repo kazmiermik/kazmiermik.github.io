@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 lang: pl
 title: 'Jak Tworzyć Zdrowe Środowisko Pracy? Co musisz wiedzieć, żeby zacząć od dziś.'
 ---
@@ -47,4 +47,3 @@ Wyobraźmy sobie jak mogłoby zmienić się środowisko pracy, gdyby liderki i l
 Budowanie zdrowego środowiska pracy to wyzwanie, które często wydaje się przekraczać możliwości i wpływ pojedynczego lidera. Jednak może okazać się, że to my, liderki i liderzy nie doceniamy swoich możliwości i wpływu. Jeśli będziemy wiedzieć, od czego zacząć i na czym się skupić, możemy osiągnąć zaskakujące efekty. Zrozumienie przedstawionych powyżej fundamentalnych potrzeb i zastanowienie się jak je zaspokajać będzie pierwszym krokiem we właściwym kierunku.
 
 \* zobacz:https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
-

@@ -1,6 +1,8 @@
 ---
 published: true
-title: null
+title: >-
+  Komunikacja w firmach wciąż na szczycie listy wyzwań. Od czego zacząć by
+  stawić mu czoła?
 lang: pl
 ---
 

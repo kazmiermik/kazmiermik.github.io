@@ -2,6 +2,8 @@
 published: true
 ---
 
+##Komunikacja w firmach: wciąż na szczycie listy wyzwań. Od czego zacząć by stawić mu czoła?##
+
 Ponad trzy lata temu napisałem artykuł ([https://tinyurl.com/5n7x2dpz]) o tym jak zadbać o firmę w czasie kryzysu, którym wówczas była pandemia. Pandemia minęła, ale problemy firm pozostają ciągle aktualne: w artykule napisanym trzy tygodnie temu omawiałem trudności wynikające z obecnej sytuacji związaną ze zmianami rynkowymi i gospodarczymi.
 
 >Mimo dostrzeżenia wagi komunikacji w czasie pandemii, nadal jednym z powracających wątków jest >niewłaściwa komunikacja w firmie i wynikające z tego problemy.

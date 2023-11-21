@@ -1,5 +1,9 @@
 ---
 published: true
+lang: pl
+title: >-
+  Ja, człowiek; ja, liderka, lider. Przypadek Marty - jak pozostać sobą w
+  świecie sprzeczności?
 ---
 “Czuję się jak w surrealistycznej powieści…” usłyszałem niedawno od Marty, z którą prowadzę sesje coachingowe. Marta, menedżerka w dużej międzynarodowej korporacji, znalazła się w trudnej sytuacji. Z jednej strony chciała dawać coraz więcej autonomii i swobody decyzji członkom swojego zespołu, a z drugiej strony, jej zwierzchnicy dawali jasne sygnały, że interesuje ich wyłącznie wynik na koniec kwartału. Kontrolowali niemal każde działanie i grozili, że jak wyniku nie będzie to Marta stanie przed koniecznością zwalniania ludzi.
 

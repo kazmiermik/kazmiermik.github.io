@@ -37,7 +37,7 @@ Patrząc na potrzeby zidentyfikowane w każdym z powyższych modeli, nie da się
 
 Jakie wnioski wypływają z tego dla liderów? To, że trzy różne modele, choć wywodzą się z odmiennych perspektyw, dochodzą do tych samych wniosków, powinno być dla nas wyraźnym sygnałem świadczącym, że zidentyfikowane potrzeby są rzeczywiście kluczowymi czynnikami wpływającymi na ludzkie zachowanie. Ich zaspokojenie może istotnie przyczynić się do kreowania optymalnego środowiska pracy, w którym pracownicy będą mogli pracować z zaangażowaniem i satysfakcją z wykonywanej pracy.
 
-### Co możesz zrobić już dziś?###
+### Co możesz zrobić już dziś? ###
 
 Wyobraźmy sobie jak mogłoby zmienić się środowisko pracy, gdyby liderki i liderzy zadali sobie następujące pytania:
 — Co mogę zrobić, aby spełnić te kluczowe potrzeby, wykorzystując dostępne środki i działając już teraz?

@@ -34,4 +34,3 @@ W przeciwieństwie do swoich koleżanek/kolegów, którzy zdecydowali się dzia�
 > W efekcie, Marta nie pozwoliła na to, by stracić siebie w obliczu złożonej, pełnej sprzeczności sytuacji.
 
 Jeżeli czujesz jak Marta, już wiesz co możesz robić, kiedy ktoś oczekuje od ciebie działań nie do pogodzenia.
-

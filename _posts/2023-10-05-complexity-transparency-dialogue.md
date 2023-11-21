@@ -7,13 +7,13 @@ tile: null
 
 While the pandemic is not, at least for now, an immediate threat, businesses still face ongoing challenges. Every day, leaders grapple with managing in a changing, complex, and uncertain environment.
 
-**What brought you here will not bring you there
+**What brought you here will not bring you there**
 
 Looking for solutions to problems they face, leaders should recognise that in today's landscape, past habits and solutions may no longer work. For example, being an effective leader now demands transparency and a willingness to admit ignorance (not knowing), which may seem contradictory to traditional authoritarian approaches.
 
 The past couple of years have marked a prosperous period for some companies that experienced significant growth and formulated their plans and future goals with the expectation that these positive trends would endure. However, these positive trends did not endure; market conditions changed, growth slowed, and optimistic plans were unfulfilled, leaving many companies struggling to meet expectations.
 
-**Managing Without Transparency - A Recipe for Disorientation and Trust Erosion
+**Managing Without Transparency - A Recipe for Disorientation and Trust Erosion**
 
 In situations like this, it's important to recognise that employees at different levels within an organisation often perceive the company's present condition differently. Employees at the operational level may perceive the business as performing reasonably well, while top leadership has a different view as they focus on achieving pre-established goals. In many companies, a lack of reaching planned goals leads to restrictions, such as cost-cutting measures or layoffs.
 
@@ -21,7 +21,7 @@ Even if such decisions are justified, a lack of transparency from the company’
 
 > Lack of transparency from the company’s leadership can cause disorientation and frustration among employees - eroding employees' trust in the company's top leaders.
 
-**Operating in Complex Environments
+**Operating in Complex Environments**
 
 Undoubtedly, company leadership bears the ultimate responsibility for running the business and making decisions. However, the way these decisions are made is crucial.
 
